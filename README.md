@@ -15,6 +15,14 @@ A cloud-integrated IoT solution for smart room automation using computer vision 
 | **False Positives (Voice)**      | 2–3%           | Due to accidental wake-word triggers |
 | **False Negatives (Gesture)**    | 5–10%          | In low-light conditions              |
 
+**Demo⬇️ :**
+
+
+https://github.com/user-attachments/assets/ffb57023-65a3-49db-98af-4eb3d78dced3
+
+
+
+
 
 
 ### **✨ Key Features**
