@@ -4,16 +4,16 @@ A cloud-integrated IoT solution for smart room automation using computer vision 
 
 **📊 System Performance**
 
-**| Metric                           | Measured Value | Conditions                           |**
-| -------------------------------- | -------------- | ------------------------------------ |
-| **Gesture Recognition Accuracy** | 95%            | Well-lit environment (400–500 lux)   |
-|                                  | 82%            | Low-light conditions                 |
-| **Voice Recognition Accuracy**   | 91%            | Quiet room, single speaker           |
-|                                  | 80%            | Moderate noise environment           |
-| **End-to-End Latency**           | \~0.8 seconds  | Complete command execution cycle     |
-| **System Uptime**                | 5+ hours       | Continuous operation without crashes |
-| **False Positives (Voice)**      | 2–3%           | Due to accidental wake-word triggers |
-| **False Negatives (Gesture)**    | 5–10%          | In low-light conditions              |
+    | Metric                           | Measured Value | Conditions                           
+    | -------------------------------- | -------------- | ------------------------------------ |
+    | **Gesture Recognition Accuracy** | 95%            | Well-lit environment (400–500 lux)   |
+    |                                  | 82%            | Low-light conditions                 |
+    | **Voice Recognition Accuracy**   | 91%            | Quiet room, single speaker           |
+    |                                  | 80%            | Moderate noise environment           |
+    | **End-to-End Latency**           | \~0.8 seconds  | Complete command execution cycle     |
+    | **System Uptime**                | 5+ hours       | Continuous operation without crashes |
+    | **False Positives (Voice)**      | 2–3%           | Due to accidental wake-word triggers |
+    | **False Negatives (Gesture)**    | 5–10%          | In low-light conditions              |
 
 
 
