@@ -1,4 +1,4 @@
-**🏠 Smart Room Multimodal Control System**
+# **🏠 Smart Room Multimodal Control System**
 
 A cloud-integrated IoT solution for smart room automation using computer vision gesture recognition and voice commands, leveraging Azure IoT Hub, Raspberry Pi 4, and Arduino UNO for real-time appliance control.
 
