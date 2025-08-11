@@ -2,7 +2,7 @@
 
 A cloud-integrated IoT solution for smart room automation using computer vision gesture recognition and voice commands, leveraging Azure IoT Hub, Raspberry Pi 4, and Arduino UNO for real-time appliance control.
 
-###**📊 System Performance**
+### **📊 System Performance**
 
 | Metric                           | Measured Value | Conditions                           
 | -------------------------------- | -------------- | ------------------------------------ |
@@ -17,7 +17,7 @@ A cloud-integrated IoT solution for smart room automation using computer vision 
 
 
 
-###**✨ Key Features**
+### **✨ Key Features**
 
 🖐️ Gesture Control System
 
@@ -141,8 +141,8 @@ System Requirement
 
 
 
-##**👨‍💻 Author**
-###***Bhargavkumar Panchal***
+## **👨‍💻 Author**
+### ***Bhargavkumar Panchal***
 
 GitHub: @bbhargavpanchal
 LinkedIn: https://www.linkedin.com/in/bhargavpanchall/
